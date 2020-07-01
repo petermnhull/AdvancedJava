@@ -1,2 +1,2 @@
 # AdvancedJava
-Practice exercises for advanced methods in Java.
+Practice exercises from the course Advanced Programming with Java (LinkedIn Learning).
