@@ -1,0 +1,6 @@
+
+module customer {
+    
+    requires bookingsystem;
+    
+}
